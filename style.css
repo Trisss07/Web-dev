@@ -3,3 +3,12 @@ h1{
     background-color: brown;
     padding-bottom: 20px;
 }
+
+.intro-content h2{
+    margin-top: 50px;
+    margin-left: 25px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+   
+}
