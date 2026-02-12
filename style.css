@@ -48,7 +48,7 @@ h4{
 
 .about-me h2{
     margin-left: 25px;
-    padding-top: 5px;
+    padding-top: 40px;
     padding-bottom: 20px;
     font-family: "Pirata One", system-ui;
     font-weight: 100;
@@ -57,7 +57,7 @@ h4{
 
 .edu-content h2{
     margin-left: 25px;
-    padding-top: 5px;
+    padding-top: 60px;
     padding-bottom: 20px;
     font-family: "Pirata One", system-ui;
     font-weight: 100;
@@ -65,7 +65,7 @@ h4{
 }
 .skills-content h2{
     margin-left: 25px;
-    padding-top: 5px;
+    padding-top: 60px;
     padding-bottom: 20px;
     font-family: "Pirata One", system-ui;
     font-weight: 100;
@@ -73,9 +73,57 @@ h4{
 }
 .contact-content h2{
     margin-left: 25px;
-    padding-top: 5px;
+    padding-top: 60px;
     padding-bottom: 20px;
     font-family: "Pirata One", system-ui;
     font-weight: 100;
     font-style: normal;
+}
+
+.about-me p{
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    
+}
+
+.edu-content h3{
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 0%;
+    padding-top: 0%;
+    
+}
+
+.edu-content p{
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.skills-content h3{
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 0%;
+    padding-top: 0%;
+}
+
+.mt-2 {
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.contact-content p{
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
 }
