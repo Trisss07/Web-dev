@@ -54,3 +54,28 @@ h4{
     font-weight: 100;
     font-style: normal;
 }
+
+.edu-content h2{
+    margin-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-family: "Pirata One", system-ui;
+    font-weight: 100;
+    font-style: normal;
+}
+.skills-content h2{
+    margin-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-family: "Pirata One", system-ui;
+    font-weight: 100;
+    font-style: normal;
+}
+.contact-content h2{
+    margin-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-family: "Pirata One", system-ui;
+    font-weight: 100;
+    font-style: normal;
+}
